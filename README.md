@@ -1,8 +1,5 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/vitor-valcarcel-521681265/" rel="nofollow">
-        <img style="width: 100px; height: 100px; border-radius: 50%; margin-right: 15px;" src="https://github.com/vitorvalcarcel.png" alt="Perfil">
-    </a>
-    <a href="https://www.linkedin.com/in/vitor-valcarcel-521681265/" rel="nofollow">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&width=435&lines=Ola,+eu+sou+Vitor+Valcarcel;Desenvolvedor+Full-Stack;Criador+de+SaaS" alt="Typing SVG" style="vertical-align: top;">
     </a>
 </div>
@@ -47,7 +44,7 @@
   <summary><b>GitHub Stats</b></summary>
     <br>
     <div align="center" dir="auto">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorvalcarcel&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas Gerais">
+        <img height="150em" src="https://github-readme-stats.zcy.dev/api?username=vitorvalcarcel&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas Gerais">
         <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorvalcarcel&theme=tokyonight&hide_border=true" alt="Estatísticas de Constância">
     </div>
 </details>
