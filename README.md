@@ -21,7 +21,7 @@
 
 <h4>Projeto em Destaque</h4>
 <div align="left" dir="auto">
-    <p><b><a href="#">AprovAÇÃO</a></b> - Plataforma SaaS de gestão de estudos para concurseiros. Arquitetura completa com análise de desempenho e integração com gateways de pagamento (Case Study).</p>
+    <p><b><a href="https://github.com/vitorvalcarcel/AprovACAO-public/">AprovAÇÃO</a></b> - Plataforma SaaS de gestão de estudos para concurseiros. Arquitetura completa com análise de desempenho e integração com gateways de pagamento (Case Study).</p>
 </div>
 
 <h4>Linguagens e Frameworks</h4>
