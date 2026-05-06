@@ -34,7 +34,7 @@
 <h4>IDEs e Ferramentas</h4>
 <div align="left" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,postman,docker" height="40" alt="IDEs e Ferramentas">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,docker" height="40" alt="IDEs e Ferramentas">
   </a>
 </div>
 
