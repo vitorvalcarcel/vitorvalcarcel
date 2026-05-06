@@ -38,8 +38,8 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorvalcarcel&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do Vitor" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvalcarcel&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorvalcarcel&show_icons=true&theme=tokyonight&random=1" alt="Estatísticas do Vitor" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvalcarcel&layout=compact&theme=tokyonight&random=1" alt="Linguagens mais usadas" />
 </div>
 
 ---
