@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorvalcarcel&theme=tokyo-night&bg_color=1A1B27&color=7aa2f7&line=3B82F6&point=FFFFFF&hide_border=true" alt="Gráfico de Atividade" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorvalcarcel/vitorvalcarcel/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorvalcarcel/vitorvalcarcel/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorvalcarcel/vitorvalcarcel/output/github-snake.svg" width="100%">
+  </picture>
 </div>
 
 <h1 align="center">Olá! Eu sou o Vitor Valcarcel 👋</h1>
@@ -22,6 +26,12 @@
 
 ---
 
+### 🚀 Projetos em Destaque
+
+- **[AprovAÇÃO](#)** - Plataforma SaaS de gestão de estudos para concurseiros, com análise de desempenho e integração de pagamentos. *(Case Study)*
+
+---
+
 ### 🛠️ Minha Stack e Ferramentas
 
 <div align="center">
@@ -31,15 +41,6 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorvalcarcel&theme=tokyonight&hide_border=true" alt="Estatísticas de Constância" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorvalcarcel&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 ---
