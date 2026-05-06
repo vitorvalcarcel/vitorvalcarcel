@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vitorvalcarcel/vitorvalcarcel/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorvalcarcel&theme=tokyo-night&bg_color=1A1B27&color=7aa2f7&line=3B82F6&point=FFFFFF&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
 <h1 align="center">Olá! Eu sou o Vitor Valcarcel 👋</h1>
@@ -38,8 +38,8 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorvalcarcel&show_icons=true&theme=tokyonight&random=1" alt="Estatísticas do Vitor" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvalcarcel&layout=compact&theme=tokyonight&random=1" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorvalcarcel&theme=tokyonight&hide_border=true" alt="Estatísticas de Constância" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorvalcarcel&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 ---
